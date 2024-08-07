@@ -10,12 +10,12 @@ Also since Github provides a pretty format in the intial README, I'll use that t
 - 💞️ I’m looking to collaborate on projects which solve tangible real-world problems and help my expand my skills irrespective of the tech stack.
 - 📫 How to reach me
   
-      - 📞 +91 9073989733
+  📞 +91 9073989733
 
-      - 📧 aritroshomework@gmail.com
+  📧 aritroshomework@gmail.com
 
-      - Twitter/X : https://x.com/ar1tro
+  Twitter/X : https://x.com/ar1tro
 
-      - Instagram : https://instagram.com/thearitroshome
+  Instagram : https://instagram.com/thearitroshome
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an active quizzer (also QM), debater, swimmer, basketball player and amateur CounterStrike player (1.6 and Legacy Global Offensive).
