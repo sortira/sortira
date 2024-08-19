@@ -1,5 +1,5 @@
 ## Aritro Shome
-Hello, this is the (official) Github profile of Aritro Shome. I'm currently pursuing engineering at Indian Institute of Engineering Science and Technology, Shibpur, West Bengal, India. One of my foremost childhood hobbies include programming anything and everything which my mind could come up with and my brain could deal with, but since project management was _not_ one of my fortes, I have decided to (finally) create a decent formal Github profile. 
+Hello, this is the (official) Github profile of Aritro Shome. I'm currently pursuing Information Technology Engineering, Bachelors of Technology, 4 Years, at Indian Institute of Engineering Science and Technology, Shibpur, West Bengal, India. One of my foremost childhood hobbies include programming anything and everything which my mind could come up with and my brain could deal with, but since project management was _not_ one of my fortes, I have decided to (finally) create a decent formal Github profile. 
 
 Feel free to fork, comment, raise issues and provide feedback on anything I have built or am trying to build. 
 
