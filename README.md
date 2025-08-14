@@ -1,5 +1,5 @@
 # Hi, this is Aritro Shome:
-🔭 I’m currently working on learning technologies which include AI/ML, algorithm design and UI/UX<br>👯 I’m looking to collaborate on hackathons, mostly projects with a social impact.<br>🤝 I’m looking for help with mathematical understanding behind algorithms.<br>💬 Ask me about pretty much anything.<br>⚡ Fun fact: I'm an avid debater, quizzer, amateur CounterStrike 1.6 aficionado and a technologist.
+🔭 I’m currently working on learning technologies which include AI/ML, algorithm design and UI/UX<br>👯 I’m looking to collaborate on hackathons, mostly projects with a social impact.<br>🤝 I’m looking for help with mathematical understanding behind algorithms.<br>💬 Ask me about pretty much anything.<br>⚡ Fun fact: I'm an avid debater, quizzer, amateur Valorant aficionado and a technologist.
 
 
 ## 🌐 Socials:
