@@ -14,7 +14,7 @@
 
 <b>how to contact me:</b>
 
-(increasing order of response times)
+(decreasing order of response times)
 
 - [linkedin](https://www.linkedin.com/in/aritro-shome-40a5b0312/)
 - [twitter](https://x.com/silicognition)
