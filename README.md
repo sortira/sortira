@@ -2,13 +2,15 @@
 
 <img src="avatar.png" style="border-radius: 50%;" width="150" height="150"></img>
 
-(self-proclaimed) neurosurgeon of ai models. performing lobotomy on VLMs and making them think visually so that they go brr. also making sure these models behave well and don't accidentally take over humanity. currently an undergrad, information technology major, scheduled to graduate in 2028 (hopefully).
+currently: @ ai4bharat, poking into multimodal multilingual open frontier models like gemma and analysing their performance on reasoning tasks like solving math problems across modalities and languages from an interpretability and alignment perspective. 
 
-- topics of interest: interpretablity, alignment and safety research, vision models, reasoning models. 
+personal projects: studying reinforcement learning and model red teaming, implementing projects of the same.
+
+- topics of interest: interpretablity, alignment and safety research, reinforcement learning, reasoning models, model red teaming. 
 - more deets about me on my [homepage](https://aritro.is-a.dev/)
 - i also have a [technical blog](https://silicognition.is-a.dev/) and a [non-technical blog](https://silicognition.substack.com/). 
-- currently a research intern @ <a href="https://ai4bharat.iitm.ac.in/">ai4bharat</a>, iitmadras
-- ex-intern @ <a href="https://sarvam.ai">sarvam</a> on their dubbing team
+- currently a research intern @ <a href="https://wsai.iitm.ac.in/research/ai4bharat/">ai4bharat</a>, iitmadras (mar 2026 - present)
+- ex-intern @ <a href="https://sarvam.ai">sarvam</a> on their dubbing team (aug 2025 - dec 2025)
 
 <b>tech stack</b>: python, huggingface, pytorch, numpy, pandas, wandb.
 
@@ -16,8 +18,9 @@
 
 (decreasing order of response times)
 
-- [linkedin](https://www.linkedin.com/in/aritro-shome-40a5b0312/)
+- [linkedin](https://www.linkedin.com/in/aritroshome)
 - [twitter](https://x.com/silicognition)
 - [email](mailto:aritro.shome.official@gmail.com)
 - [instagram](https://instagram.com/thearitroshome) 
 - pigeon, but i can't doxx myself so use the above four. 
+
