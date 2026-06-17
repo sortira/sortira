@@ -24,3 +24,7 @@ personal projects: studying reinforcement learning and model red teaming, implem
 - [instagram](https://instagram.com/thearitroshome) 
 - pigeon, but i can't doxx myself so use the above four. 
 
+<b>[webrings i am a part of](https://en.wikipedia.org/wiki/Webring)</b>
+
+[![threadlocked webring badge](https://github.com/user-attachments/assets/86fc434f-8b29-4628-b0a3-33cdf4d487c0)](https://ring.seggs.lol "threadlocked webring")
+
