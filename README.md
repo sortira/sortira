@@ -1,8 +1,8 @@
 <h1>aritro shome</h1>
 
-<img src="avatar.png" style="border-radius: 50%;" width="150" height="150"></img>
-
 currently: @ ai4bharat, poking into multimodal multilingual open frontier models like gemma and analysing their performance on reasoning tasks like solving math problems across modalities and languages from an interpretability and alignment perspective. 
+
+edu: cs/it undergrad 2028, iiest shibpur, india.
 
 personal projects: studying reinforcement learning and model red teaming, implementing projects of the same.
 
