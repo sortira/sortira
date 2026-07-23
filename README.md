@@ -1,6 +1,6 @@
 <h1>aritro shome</h1>
 
-currently: @ ai4bharat, poking into multimodal multilingual open frontier models like gemma and analysing their performance on reasoning tasks like solving math problems across modalities and languages from an interpretability and alignment perspective. 
+currently: [@ai4bharat](https://github.com/AI4Bharat), poking into multimodal multilingual open frontier models like gemma and analysing their performance on reasoning tasks like solving math problems across modalities and languages from an interpretability and alignment perspective. ex-[sarvam](https://github.com/sarvamai) intern on the ai dubbing pipeline showcased at the global ai summit 2026 (demo: [here](https://www.youtube.com/watch?v=KNEJcCtoE4Ml)) and used to dub PM Modi's _Mann Ki Baat_ podcast into various languages.
 
 edu: cs/it undergrad 2028, iiest shibpur, india.
 
